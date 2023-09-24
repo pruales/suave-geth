@@ -1,0 +1,3 @@
+## Intents on Suave
+
+Intents have recently gained a lot of attention in the crypto community. They are a way to express what you want, without having to worry about how to achieve it. This is a very powerful concept for users to be able to navigate the modular complexity of the crypto space. The main downside stems from the increased fragmentation of off-chain infrastructure (solvers) currently required to solve user intents. Additionally, existing intent systems have very limited expressivity, mainly focused on simple token swaps. 
